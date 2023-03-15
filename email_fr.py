@@ -1,7 +1,6 @@
 import re
 
-fichier = "C:\DATA_ANALYST\ECF1\liste_email.txt"
-
+fichier = "liste_email.txt"
 
 def extraire_emails_francais(fichier):
     emails_francais = []
