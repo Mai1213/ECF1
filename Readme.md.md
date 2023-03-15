@@ -17,5 +17,7 @@ Commencez tout d'abord par installer Python. Lancez ensuite la console, placez v
 Vous pouvez enfin lancer le script:
 - email_fr.py
 
+Un fichier output contenant les résultats va se créer
+
 
 
